@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Epam.Task_3.3.1. SUPER ARRAY", "Epam.Task_3.3.1. SUPER ARRAY\Epam.Task_3.3.1. SUPER ARRAY.csproj", "{88CBFC8A-8E90-4DCC-8D59-FDF2E52B3A99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Epam.Task_3.3.2. SUPER STRING", "Epam.Task_3.3.2. SUPER STRING\Epam.Task_3.3.2. SUPER STRING.csproj", "{42CC1505-6918-4DD7-96D0-EE616D605905}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Epam.Task_3.3.3. PIZZA TIME", "Epam.Task_3.3.3. PIZZA TIME\Epam.Task_3.3.3. PIZZA TIME.csproj", "{74140CD2-66A5-4690-8CB3-7C0939B7FB69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88CBFC8A-8E90-4DCC-8D59-FDF2E52B3A99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88CBFC8A-8E90-4DCC-8D59-FDF2E52B3A99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88CBFC8A-8E90-4DCC-8D59-FDF2E52B3A99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88CBFC8A-8E90-4DCC-8D59-FDF2E52B3A99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42CC1505-6918-4DD7-96D0-EE616D605905}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42CC1505-6918-4DD7-96D0-EE616D605905}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42CC1505-6918-4DD7-96D0-EE616D605905}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42CC1505-6918-4DD7-96D0-EE616D605905}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74140CD2-66A5-4690-8CB3-7C0939B7FB69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74140CD2-66A5-4690-8CB3-7C0939B7FB69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74140CD2-66A5-4690-8CB3-7C0939B7FB69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74140CD2-66A5-4690-8CB3-7C0939B7FB69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38799753-C6C5-4BBA-9068-44D587519BAA}
+	EndGlobalSection
+EndGlobal

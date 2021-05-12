@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/modules.xml
+/.idea.Epam.Task_2.2.iml
+/contentModel.xml
+# Datasource local storage ignored files
+/../../../../../../../../../../../../../:\Users\krisy\OneDrive\Documents\GitHub\epam-xt-2021\Task 2\Task 2.2\Epam.Task_2.2\.idea\.idea.Epam.Task_2.2\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
